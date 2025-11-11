@@ -1,0 +1,14 @@
+C:\Users\207.cllamaral\Desktop\NET\Topico1\CadastroProdutos\obj\Debug\net9.0\CadastroProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\207.cllamaral\Desktop\NET\Topico1\CadastroProdutos\obj\Debug\net9.0\CadastroProdutos.AssemblyInfoInputs.cache
+C:\Users\207.cllamaral\Desktop\NET\Topico1\CadastroProdutos\obj\Debug\net9.0\CadastroProdutos.AssemblyInfo.cs
+C:\Users\207.cllamaral\Desktop\NET\Topico1\CadastroProdutos\obj\Debug\net9.0\CadastroProdutos.csproj.CoreCompileInputs.cache
+C:\Users\207.cllamaral\Desktop\NET\Topico1\CadastroProdutos\bin\Debug\net9.0\CadastroProdutos.exe
+C:\Users\207.cllamaral\Desktop\NET\Topico1\CadastroProdutos\bin\Debug\net9.0\CadastroProdutos.deps.json
+C:\Users\207.cllamaral\Desktop\NET\Topico1\CadastroProdutos\bin\Debug\net9.0\CadastroProdutos.runtimeconfig.json
+C:\Users\207.cllamaral\Desktop\NET\Topico1\CadastroProdutos\bin\Debug\net9.0\CadastroProdutos.dll
+C:\Users\207.cllamaral\Desktop\NET\Topico1\CadastroProdutos\bin\Debug\net9.0\CadastroProdutos.pdb
+C:\Users\207.cllamaral\Desktop\NET\Topico1\CadastroProdutos\obj\Debug\net9.0\CadastroProdutos.dll
+C:\Users\207.cllamaral\Desktop\NET\Topico1\CadastroProdutos\obj\Debug\net9.0\refint\CadastroProdutos.dll
+C:\Users\207.cllamaral\Desktop\NET\Topico1\CadastroProdutos\obj\Debug\net9.0\CadastroProdutos.pdb
+C:\Users\207.cllamaral\Desktop\NET\Topico1\CadastroProdutos\obj\Debug\net9.0\CadastroProdutos.genruntimeconfig.cache
+C:\Users\207.cllamaral\Desktop\NET\Topico1\CadastroProdutos\obj\Debug\net9.0\ref\CadastroProdutos.dll
