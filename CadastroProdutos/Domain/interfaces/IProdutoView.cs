@@ -1,4 +1,4 @@
-namespace CadastroProdutos.Views
+namespace CadastroProdutos.Domain.Interfaces
 {
     public interface IProdutoView
     {

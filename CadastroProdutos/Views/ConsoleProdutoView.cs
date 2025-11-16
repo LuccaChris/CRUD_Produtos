@@ -1,3 +1,4 @@
+using CadastroProdutos.Domain.Interfaces;
 namespace CadastroProdutos.Views
 {
     public class ConsoleProdutoView : IProdutoView

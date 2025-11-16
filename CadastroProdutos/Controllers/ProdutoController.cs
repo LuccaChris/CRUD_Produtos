@@ -1,6 +1,6 @@
-using CadastroProdutos.Models;
-using CadastroProdutos.Services;
-using CadastroProdutos.Views;
+using CadastroProdutos.Domain.Interfaces;
+using CadastroProdutos.Domain.Entities;
+using CadastroProdutos.Domain.Interfaces;
 using System.Globalization;
 
 namespace CadastroProdutos.Controllers

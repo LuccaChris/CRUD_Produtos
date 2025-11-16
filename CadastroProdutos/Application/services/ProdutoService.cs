@@ -1,8 +1,8 @@
-using CadastroProdutos.Models;
-using CadastroProdutos.Repositories;
+using CadastroProdutos.Domain.Entities;
+using CadastroProdutos.Domain.Interfaces;
 using System.Globalization;
 
-namespace CadastroProdutos.Services
+namespace CadastroProdutos.Application.services
 {
     public class ProdutoService : IProdutoService
     {

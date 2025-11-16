@@ -1,6 +1,7 @@
-using CadastroProdutos.Models;
+using CadastroProdutos.Domain.Entities;
+using CadastroProdutos.Domain.Interfaces;
 
-namespace CadastroProdutos.Repositories
+namespace CadastroProdutos.Infrastructure.Repositories
 {
     public class InMemoryProdutoRepository : IProdutoRepository
     {

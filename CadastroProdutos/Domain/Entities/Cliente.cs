@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CadastroProdutos.Models
+namespace CadastroProdutos.Domain.Entities
 {
     public class Cliente : Pessoa
     {
