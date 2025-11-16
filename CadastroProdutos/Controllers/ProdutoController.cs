@@ -29,6 +29,33 @@ namespace CadastroProdutos.Controllers
                 switch (op)
                 {
                     case "1":
+                        _view.MostrarMensagem("Navegando para o menu de Clientes...");
+                        return;
+                    case "2":
+                        GerenciarProdutos();
+                        break;
+                    case "3":
+                        _view.MostrarMensagem("Navegando para o menu de Pedidos...");
+                        return;
+                    case "0":
+                        _view.MostrarMensagem("Saindo... Até mais!");
+                        Environment.Exit(0);
+                        break;
+                    default:
+                        _view.MostrarErro("Opção inválida!");
+                        break;
+                }
+                _view.Pausar();
+                _view.Limpar();
+            
+            while (true)
+            {
+                _view.SubMenuMostrarMenu();
+                
+
+                switch (op)
+                {
+                    case "1":
                         Cadastrar();
                         break;
                     case "2":
@@ -56,7 +83,7 @@ namespace CadastroProdutos.Controllers
                 _view.Pausar();
                 _view.Limpar();
             }
-        }
+        }}
 
         private void Cadastrar()
         {

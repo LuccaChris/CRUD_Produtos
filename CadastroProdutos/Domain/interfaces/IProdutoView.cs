@@ -2,7 +2,7 @@ namespace CadastroProdutos.Domain.Interfaces
 {
     public interface IProdutoView
     {
-        void MostrarMenu();
+        void SubMenuMostrarMenu();
         void MostrarMensagem(string mensagem);
         void MostrarErro(string erro);
         void MostrarLinha(string texto);
