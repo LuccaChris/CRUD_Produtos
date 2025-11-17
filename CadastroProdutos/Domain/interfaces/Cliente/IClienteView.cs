@@ -5,8 +5,9 @@ using System.Threading.Tasks;
 
 namespace CadastroProdutos.Domain.Interfaces
 {
-    public interface IClienteRepository
+    public interface IClienteView : IBaseView
     {
-        
+        void MostrarMenuCliente();
+      
     }
 }

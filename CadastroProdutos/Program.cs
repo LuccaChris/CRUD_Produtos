@@ -1,7 +1,8 @@
 ﻿using CadastroProdutos.Controllers;
-using CadastroProdutos.Repositories;
-using CadastroProdutos.Services;
+using CadastroProdutos.Application.services;
+using CadastroProdutos.Infrastructure.Repositories;
 using CadastroProdutos.Views;
+
 
 var repo = new InMemoryProdutoRepository();
 var service = new ProdutoService(repo);

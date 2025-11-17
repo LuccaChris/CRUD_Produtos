@@ -7,16 +7,7 @@ namespace CadastroProdutos.Views
 
 
 
-        public void MostrarMenu()
-        {
-            Console.WriteLine("\n|CLLA| Escolha Serviço |");
-            Console.WriteLine(divisor);
-            Console.WriteLine("| 1 - Clientes       |");
-            Console.WriteLine("| 2 - Produtos       |");
-            Console.WriteLine("| 3 - Pedidos        |");
-            Console.WriteLine("| 0 - Sair           |");
-        }
-        public void SubMenuMostrarMenu()
+        public void MostrarMenuProduto()
         {
             Console.WriteLine("\n|CLLA| CADASTRO DE PRODUTOS |");
             Console.WriteLine(divisor);
